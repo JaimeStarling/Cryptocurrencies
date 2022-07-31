@@ -12,5 +12,7 @@ The data was retrieved from from [CryptoCompare](https://min-api.cryptocompare.c
 - Clustering Cryptocurrencies Using K-means
 - Visualizing Cryptocurrencies Results
 
+## Images
 
+Images of tables and charts are found in the supplied code with backups in the Images Folder.
 
